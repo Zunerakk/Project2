@@ -1,0 +1,33 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "johnfelipe",
+      "name": "felipe",
+      "avatar_url": "https://avatars.githubusercontent.com/u/428820?v=4",
+      "profile": "https://github.com/johnfelipe",
+      "contributions": [
+        "ideas"
+      ]
+    },
+    {
+      "login": "z1n0v1",
+      "name": "z1n0v1",
+      "avatar_url": "https://avatars.githubusercontent.com/u/98004928?v=4",
+      "profile": "https://z1n0v1.github.io/",
+      "contributions": [
+        "bug"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "skill-assessments-quizzes",
+  "projectOwner": "bandinopla",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
